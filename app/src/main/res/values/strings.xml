@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHubClient</string>
+    <string name="search_empty_recycler">Хотите найти репозиторий? Нажмите на значок поиска и впишите название</string>
+    <string name="favorites_empty_recycler">Нет скачанных репозиториев. Добавьте репозиторий при поиске</string>
+    <string name="title_dashboard">Главная</string>
+    <string name="title_favorites">Избранные</string>
+    <string name="title_search">Поиск</string>
+    <string name="default_description_fab">Delete All</string>
+    <string name="default_description_load">TODO</string>
+</resources>
